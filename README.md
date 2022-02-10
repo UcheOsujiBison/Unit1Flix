@@ -39,7 +39,7 @@ Describe any challenges encountered while building the app.
 
 ### App Walkthrough GIF
 
-<img src="http://g.recordit.co/FbnElEVKjr.gif" width=250><br>
+<img src="http://g.recordit.co/8jtQexMbG8.gif" width=250><br>
 
 ### Notes
 Had some outlet connection issues that delayed me but I ended up figuring with out using some xcode discussions and the Slack.
